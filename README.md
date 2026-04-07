@@ -2,12 +2,6 @@
 
 > Predict which telecom customers are likely to churn using Logistic Regression and Random Forest.
 
-## Results
-| Metric | Score |
-|---|---|
-| ✅ Accuracy | **87%** |
-| ✅ ROC-AUC | **0.88** |
-
 ## Tech Stack
 `Python` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn`
 
